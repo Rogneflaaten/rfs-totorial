@@ -2,4 +2,4 @@
 
 This is my fist change.
 
-My second change.
+My second commit. Some extra information.
